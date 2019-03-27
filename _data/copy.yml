@@ -1,0 +1,17 @@
+hero:
+  title: ¿QUÉ DESEAS APRENDER HOY?
+  p1: El mundo de hoy exige más de sus profesionistas, ya que la tecnología avanza a pasos agigantados también tú debes hacerlo por que así lo exíge el presente, no es una opción, es una obligación. 
+  p2: Aumenta tu expertise y posicionate entre los mejores profesionales.
+
+features:
+  - name: Múltiples cursos y talleres
+    desc: Para las profesiones del mañana
+    icon: pe-7s-study
+
+  - name: Maestros Expertos
+    desc: Los mejores profesionales del área
+    icon: pe-7s-cup
+
+  - name: Basados en Proyectos
+    desc: Aprende haciendo desde el comienzo
+    icon: pe-7s-target

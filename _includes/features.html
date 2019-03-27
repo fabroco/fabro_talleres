@@ -1,0 +1,11 @@
+<div class="features clearfix">
+		<div class="container">
+			<ul>
+				{% for feature in site.data.copy.features %}
+				<li><i class="{{ feature.icon }}"></i>
+					<h4>{{ feature.name }}</h4><span>{{ feature.desc }}</span>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
